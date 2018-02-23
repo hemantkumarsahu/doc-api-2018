@@ -1,0 +1,22 @@
+{
+  "name": "doctor-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-each": "^1.0.1",
+    "express": "^4.16.2",
+    "jwt-simple": "^0.5.1",
+    "mongoose": "^4.13.4",
+    "mongoose-timestamp": "^0.6.0",
+    "multer": "^1.3.0",
+    "simple-encryptor": "^1.1.1",
+    "underscore": "^1.8.3",
+    "update": "^0.7.4"
+  }
+}
